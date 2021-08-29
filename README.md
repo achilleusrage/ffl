@@ -1,6 +1,8 @@
 # ffl
 Fantasy Football Results
 Last Updated: 2021-08-29
+
+2007-2020
 <pre>
 +--------------------------+-----+----+---+-------+------------+--------+------------+------+------+
 |        team_name         |  w  | l  | t |  WIN% | AVG FINISH | CHAMPS | RUNNER UPS | 3RDs | 4THs |
